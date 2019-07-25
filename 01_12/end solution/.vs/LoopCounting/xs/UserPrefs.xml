@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{26D01A38-663E-48A4-9E6B-6BDC5F307651}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LoopCounting/Program.cs">
+    <Files>
+      <File FileName="LoopCounting/Program.cs" Line="13" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LoopCounting" expanded="True">
+            <Node name="LoopCounting" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.LoopCounting PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

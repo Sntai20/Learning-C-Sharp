@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/antonio/Documents/GitHub/Learning-C-Sharp/01_12/end solution/LoopCounting/LoopCounting.csproj": {}
+  },
+  "projects": {
+    "/Users/antonio/Documents/GitHub/Learning-C-Sharp/01_12/end solution/LoopCounting/LoopCounting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/antonio/Documents/GitHub/Learning-C-Sharp/01_12/end solution/LoopCounting/LoopCounting.csproj",
+        "projectName": "LoopCounting",
+        "projectPath": "/Users/antonio/Documents/GitHub/Learning-C-Sharp/01_12/end solution/LoopCounting/LoopCounting.csproj",
+        "packagesPath": "/Users/antonio/.nuget/packages/",
+        "outputPath": "/Users/antonio/Documents/GitHub/Learning-C-Sharp/01_12/end solution/LoopCounting/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/antonio/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

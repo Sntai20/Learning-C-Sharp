@@ -664,33 +664,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Alexander Zanfir\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/antonio/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alexander Zanfir\\source\\repos\\LoopCounting\\LoopCounting\\LoopCounting.csproj",
+      "projectUniqueName": "/Users/antonio/Documents/GitHub/Learning-C-Sharp/01_12/end solution/LoopCounting/LoopCounting.csproj",
       "projectName": "LoopCounting",
-      "projectPath": "C:\\Users\\Alexander Zanfir\\source\\repos\\LoopCounting\\LoopCounting\\LoopCounting.csproj",
-      "packagesPath": "C:\\Users\\Alexander Zanfir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alexander Zanfir\\source\\repos\\LoopCounting\\LoopCounting\\obj\\",
+      "projectPath": "/Users/antonio/Documents/GitHub/Learning-C-Sharp/01_12/end solution/LoopCounting/LoopCounting.csproj",
+      "packagesPath": "/Users/antonio/.nuget/packages/",
+      "outputPath": "/Users/antonio/Documents/GitHub/Learning-C-Sharp/01_12/end solution/LoopCounting/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Alexander Zanfir\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/antonio/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
